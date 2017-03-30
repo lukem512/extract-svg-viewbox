@@ -11,7 +11,7 @@ npm i --save extract-svg-viewbox
 ## Usage
 
 ```js
-const extract = require('extract-svg-viewbox)
+const extract = require('extract-svg-viewbox')
 
 const svg = `<svg viewBox="0 0 460 460" xmlns="http://www.w3.org/2000/svg">
   <path
