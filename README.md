@@ -1,5 +1,7 @@
 # extract-svg-viewbox
 
+[![Build Status](https://travis-ci.org/lukem512/extract-svg-viewbox.svg?branch=master)](https://travis-ci.org/lukem512/extract-svg-viewbox) ![Build Status](https://david-dm.org/lukem512/extract-svg-viewbox.svg) [![npm](https://img.shields.io/npm/l/extract-svg-viewbox.svg)](https://www.npmjs.com/package/extract-svg-viewbox) [![npm](https://img.shields.io/npm/v/extract-svg-viewbox.svg)](https://www.npmjs.com/package/extract-svg-viewbox) [![npm](https://img.shields.io/npm/dm/extract-svg-viewbox.svg)](https://www.npmjs.com/package/extract-svg-viewbox)
+
 Extracts the viewBox information from an SVG string.
 
 ## Install
