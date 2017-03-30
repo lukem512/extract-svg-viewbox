@@ -1,0 +1,18 @@
+{
+  "name": "extract-svg-viewbox",
+  "version": "1.0.0",
+  "description": "Extract the viewBox content from an SVG string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "svg",
+    "viewBox"
+  ],
+  "author": "Luke Mitchell",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
