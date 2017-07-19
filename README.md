@@ -24,6 +24,10 @@ const viewBox = extract(svg)
 console.log(viewBox) // "0 0 460 460"
 ```
 
+## Related Modules
+
+[normalize-svg-coords](https://github.com/lukem512/normalize-svg-coords)
+
 ## License
 
 MIT © Luke Mitchell
